@@ -30,14 +30,14 @@ The class should expose the following API to the world:
 
 *Defines*
 ----------------
-| Name                     | Value                                                     |
-|--------------------------|-----------------------------------------------------------|
-| cTrace(std::string iMsg) | Log(Level::Trace, iMsg, __LINE__, __FILE__, __FUNCTION__) |
-| cDebug(std::string iMsg) | Log(Level:Debug, iMsg, __LINE__, __FILE__, __FUNCTION__)  |
-| cInfo(std::string iMsg)  | Log(Level:Info, iMsg, __LINE__, __FILE__)                 |
-| cWarn(std::string iMsg)  | Log(Level:Warn, iMsg, __LINE__, __FILE__)                 |
-| cError(std::string iMsg) | Log(Level:Error, iMsg, __LINE__, __FILE__)                |
-| cFatal(std::string iMsg) | Log(Level:Fatal, iMsg, __LINE__, __FILE__)                |
+| Name                     | Value                                                       |
+|--------------------------|-------------------------------------------------------------|
+| cTrace(std::string iMsg) | `Log(Level::Trace, iMsg, __LINE__, __FILE__, __FUNCTION__)` |
+| cDebug(std::string iMsg) | `Log(Level:Debug, iMsg, __LINE__, __FILE__, __FUNCTION__) ` |
+| cInfo(std::string iMsg)  | `Log(Level:Info, iMsg, __LINE__, __FILE__)                ` |
+| cWarn(std::string iMsg)  | `Log(Level:Warn, iMsg, __LINE__, __FILE__)                ` |
+| cError(std::string iMsg) | `Log(Level:Error, iMsg, __LINE__, __FILE__)               ` |
+| cFatal(std::string iMsg) | `Log(Level:Fatal, iMsg, __LINE__, __FILE__)               ` |
 
 *Enumerations*
 ----------------
