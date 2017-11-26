@@ -1,5 +1,6 @@
 **XonMap**
 ==================
+
 | Version | Dev. Stage | Language | Build System |
 |---------|------------|----------|--------------|
 | 1.0 r0  |   IN-DEV   |   C++14  |  CMake 3.9+  |
@@ -14,6 +15,7 @@ This is a replacement for q3map2 for the mapping tools of the game Xonotic ([mai
 **Building currently not possible**
 
 **Dependencies:**
+
 | Library   | Version | Required | Link                                                                            | Platform | Linkage |
 |-----------|---------|----------|---------------------------------------------------------------------------------|----------|---------|
 | Winsock   |   2.00  |    YES   | https://msdn.microsoft.com/en-us/library/windows/desktop/ms740673(v=vs.85).aspx |  Windows | Dynamic |

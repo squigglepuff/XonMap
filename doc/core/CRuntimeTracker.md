@@ -50,12 +50,14 @@ The class should expose the following API to the world:
 
 *Defines*
 ----------------
+
 | Name    | Value      |
 |---------|------------|
 | Success | 0x00000000 |
 
 *Enumerations*
 ----------------
+
 **ErrorCodes**
 *[ 1 .. cerrno errors .. 255 ]*
 
