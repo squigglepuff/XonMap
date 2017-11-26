@@ -43,6 +43,7 @@ The class should expose the following API to the world:
 ----------------
 
 **Level**
+
 | Enum  | Code         | Meaning                                       |
 |-------|--------------|-----------------------------------------------|
 | Trace | Compiler-set | TRACE a code-path                             |
